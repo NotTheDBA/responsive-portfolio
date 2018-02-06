@@ -2,25 +2,21 @@
     width: 700px;
 }
 
-
-/* nav, */
-
 aside {
-    /* float: right;
-    margin: 20px 0 20px 20px; */
     width: 180px;
+    /* margin: 20px 0 20px 0; */
+}
+
+aside h3 {
+    margin-left: 0;
+    margin-right: 2px;
 }
 
 section {
-    /* float: left;
-    margin: 20px 20px 20px 0; */
     width: 480px;
 }
 
 .headshot {
-    /* float: left;
-    margin: 10px 20px;
-    position: relative; */
     width: 250px;
 }
 
@@ -37,9 +33,10 @@ section {
     padding: 0;
 }
 
-figure,
+
+/* figure,
 figure img {
     float: left;
     width: 300px;
     position: relative;
-}
+} */

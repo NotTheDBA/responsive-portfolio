@@ -18,38 +18,18 @@ nav {
 }
 
 aside {
-    float: right;
-    /*   margin: 20px 0 20px 20px; */
-    /* width: 180px; */
-}
-
-aside {
-    position: absolute;
     display: block;
-    /* position: relative; */
     float: left;
-    /* float: left; */
-    /* float: right;
-    margin: 20px 0 20px 20px; */
-    /* width: 140px; */
     margin: 0;
 }
 
 section {
-    /* position: relative; */
-    /* float: right; */
-    /* float: left;
-    margin: 20px 20px 20px 0; */
     width: 440px;
     margin-top: 0;
 }
 
 .headshot {
-    /* float: left;
-    margin: 10px 20px;
-    position: relative; */
     width: 250px;
-    margin-top: 80px;
 }
 
 .ltor img {
@@ -69,9 +49,10 @@ section {
     border-left: 0;
 }
 
-figure,
+
+/* figure,
 figure img {
     float: left;
-    width: 300px;
+    width: 240px;
     position: relative;
-}
+} */

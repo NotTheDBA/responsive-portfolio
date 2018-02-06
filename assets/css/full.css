@@ -132,7 +132,9 @@ aside {
 section {
     float: left;
     margin: 20px 20px 20px 0;
+    height: 580px;
     width: 650px;
+    overflow: auto;
 }
 
 section,
@@ -267,7 +269,7 @@ footer {
     text-decoration: none;
 }
 
-.ltor+.ltor {
+.ltor-text+.ltor-text {
     border-left: #777777 1px solid;
 }
 
