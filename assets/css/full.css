@@ -152,7 +152,8 @@ section table {
 }
 
 aside ul {
-    margin: 20px 30px;
+    text-align: center;
+    margin: 20px 10px;
 }
 
 nav {
@@ -259,10 +260,15 @@ footer {
 
 .ltor {
     display: inline;
+    margin: 0;
 }
 
 .ltor a {
     text-decoration: none;
+}
+
+.ltor+.ltor {
+    border-left: #777777 1px solid;
 }
 
 
@@ -271,11 +277,13 @@ footer {
 .ltor img {
     height: 60px;
     width: 60px;
+    padding: 10px 5px 0 5px;
 }
 
 .ltor img:hover {
     height: 70px;
     width: 70px;
+    padding: 0;
 }
 
 
