@@ -30,8 +30,8 @@ h2 {
 
 h3 {
     font-size: 18px;
-    font-weight: bold;
     line-height: 24px;
+    font-weight: bold;
 }
 
 footer {
@@ -224,9 +224,11 @@ footer {
 
 .content {
     flex: 1 0 auto;
+}
+
+aside,
+section {
     background: #ffffff;
-    /* border-top: #dddddd solid 2px;
-    border-bottom: #dddddd solid 2px; */
 }
 
 

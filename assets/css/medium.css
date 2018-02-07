@@ -4,7 +4,6 @@
 
 aside {
     width: 180px;
-    /* margin: 20px 0 20px 0; */
 }
 
 aside h3 {
@@ -32,11 +31,3 @@ section {
     width: 48px;
     padding: 0;
 }
-
-
-/* figure,
-figure img {
-    float: left;
-    width: 300px;
-    position: relative;
-} */
